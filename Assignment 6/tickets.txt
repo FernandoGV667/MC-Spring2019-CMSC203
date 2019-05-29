@@ -1,0 +1,12 @@
+Book Club:PG13:1:13:IMAX:Employee:45678
+Deadpool:NR:1:13:IMAX:MoviePass:55555
+A Quiet Place:PG13:2:12:NONE:Adult:0
+Solo:PG13:2:12:NONE:MoviePass:33333
+Little Mermaid:G:2:12:NONE:Child:0
+Action Point:NR:2:12:NONE:Employee:23456
+Black Panther:PG13:2:14:3D:Adult:0
+Show Dogs:PG:2:14:3D:Child:0
+Infinity Wars:PG13:5:19:NONE:Adult:0
+Mulan:G:5:19:NONE:Child:0
+Deadpool:NR:5:19:NONE:Employee:12345
+Deadpool:NR:5:19:NONE:MoviePass:22222

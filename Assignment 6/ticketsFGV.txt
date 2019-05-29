@@ -1,0 +1,12 @@
+Avengers Endgame:PG13:8:15:IMAX:Adult:0
+Dune:PG13:11:21:3D:Adult:0
+The Goonies:PG:2:16:NONE:Adult:0
+Shrek 5:PG:2:18:3D:Child:0
+Toy Story IX:G:5:13:IMAX:Child:0
+Lion King:PG:5:15:3D:Child:0
+The Exorcist:NR:5:19:NONE:Employee:54321
+Cool as Ice:NR:2:12:NONE:Employee:65432
+Tolkien:PG13:1:13:IMAX:Employee:87654
+Thunderdogs:NR:13:21:NONE:MoviePass:99999
+Thunderdogs:G:2:14:IMAX:MoviePass:11111
+Bobba Fett:PG13:3:13:3D:MoviePass:77777

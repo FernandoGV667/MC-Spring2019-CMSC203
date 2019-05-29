@@ -1,0 +1,16 @@
+String[] pix = {
+"Apartments.jpg",
+"BaseballField.jpg",
+"BlueApts.jpg",
+"GasStation.jpg",
+"GrayRoofedHouse.jpg",
+"MiniMart.jpg",
+"NM_House.jpg",
+"OfficeBldg.jpg",
+"Orchard.jpg",
+"Patio.jpg",
+"Pool.jpg",
+"School.jpg",
+"Shop.jpg",
+"TennisCourt.jpg"
+};
